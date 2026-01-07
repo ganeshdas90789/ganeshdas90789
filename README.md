@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @ganeshdas90789
+- 👋 Hi, I’m @ganeshdas
 - 
 <!---
 ganeshdas90789/ganeshdas90789 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
